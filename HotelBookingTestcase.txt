@@ -1,0 +1,549 @@
+
+
+//Start
+Welcome to ABC Hotel
+
+Enter Room size
+3
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+7
+Enter CheckOut Date:
+13
+Accept
+
+Enter CheckIn Date:
+3
+Enter CheckOut Date:
+9
+Accept
+
+Enter CheckIn Date:
+5
+Enter CheckOut Date:
+7
+Accept
+
+Enter CheckIn Date:
+6
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+4
+Accept
+//End
+
+
+//Start
+Welcome to ABC Hotel
+Enter Room size
+3
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+3
+Accept
+
+Enter CheckIn Date:
+2
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+9
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+15
+Decline
+//End
+
+//Start Testcase 3
+Welcome to ABC Hotel
+
+Enter Room size
+3
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+3
+Accept
+
+Enter CheckIn Date:
+2
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+9
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+15
+Decline
+
+
+//End
+
+//Start TestCase 4
+Welcome to ABC Hotel
+
+Enter Room size
+3
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+3
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+15
+Accept
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+9
+Accept
+
+Enter CheckIn Date:
+2
+Enter CheckOut Date:
+5
+Decline
+
+Enter CheckIn Date:
+4
+Enter CheckOut Date:
+9
+Accept
+
+//End
+
+//Start Testcase5
+Welcome to ABC Hotel
+
+Enter Room size
+2
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+3
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+4
+Accept
+
+Enter CheckIn Date:
+2
+Enter CheckOut Date:
+3
+Decline
+
+Enter CheckIn Date:
+5
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+4
+Enter CheckOut Date:
+10
+Accept
+
+Enter CheckIn Date:
+10
+Enter CheckOut Date:
+10
+Accept
+
+Enter CheckIn Date:
+6
+Enter CheckOut Date:
+7
+Accept
+
+Enter CheckIn Date:
+8
+Enter CheckOut Date:
+10
+Decline
+
+Enter CheckIn Date:
+8
+Enter CheckOut Date:
+9
+Accept
+
+//End
+
+//Start Testcase6
+Welcome to ABC Hotel
+
+Enter Room size
+1000
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+
+
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+6
+Accept
+//End
+
+//Start Testcase7
+Welcome to ABC Hotel
+
+Enter Room size
+1000
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+2
+Accept
+//End
+
+//Start Testcase8
+Welcome to ABC Hotel
+
+Enter Room size
+2
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+0
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+1
+Accept
+
+Enter CheckIn Date:
+5
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+4
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+3
+Enter CheckOut Date:
+3
+Accept
+
+Enter CheckIn Date:
+1
+Enter CheckOut Date:
+3
+Accept
+//End
+
+//Start Testcase 9
+Welcome to ABC Hotel
+
+Enter Room size
+2
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+0
+Accept
+
+Enter CheckIn Date:
+0
+Enter CheckOut Date:
+1
+Accept
+
+Enter CheckIn Date:
+5
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+4
+Enter CheckOut Date:
+5
+Accept
+
+Enter CheckIn Date:
+3
+Enter CheckOut Date:
+3
+Accept
+
+Enter CheckIn Date:
+2
+Enter CheckOut Date:
+4
+Decline
+//End
